@@ -112,6 +112,11 @@
             <artifactId>service-logging</artifactId>
             <version>${oskari.version}</version>
         </dependency>
+        <dependency>
+            <groupId>fi.nls.oskari</groupId>
+            <artifactId>service-capabilities-update</artifactId>
+            <version>${oskari.version}</version>
+        </dependency>
         <!-- /oskari -->
         <dependency>
             <groupId>org.slf4j</groupId>
